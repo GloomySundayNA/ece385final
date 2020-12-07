@@ -1,0 +1,6 @@
+module visual_logic (input        [9:0] BallX, BallY, DrawX, DrawY, Ball_size,
+							output [5:0] decider_value
+							);
+							
+							
+							
