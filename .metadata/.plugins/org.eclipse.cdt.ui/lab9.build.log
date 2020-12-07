@@ -1,0 +1,9 @@
+16:08:54 **** Incremental Build of configuration Nios II for project lab9 ****
+make all 
+Info: Building ../lab9_bsp/
+D:/quartus/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../lab9_bsp/
+[BSP build complete]
+[lab9 build complete]
+
+16:08:55 Build Finished (took 1s.28ms)
+
